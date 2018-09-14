@@ -1,6 +1,5 @@
 
 # Oscar Mendoza Ocoha
-<img src="https://avatars1.githubusercontent.com/u/5117006?s=400&u=f0dabe6238e58dbe47c1fa781f2e1ee7408358cd&v=4" width="200" />
 
 ## Philosophy
 ---
@@ -14,10 +13,8 @@ Title in process.
 ## About me
 | | |
 |-|-|
-| Age | 27 |
 | Languages | English, Spanish |
 | Alias/Nick | Osuka |
-| Status | Single |
 | Visa type | R |
 | Current residence | Guadalajara, Mexico |
 | Hobbies | 🚲 🏃‍ 🎲 🎬 🎮 |
