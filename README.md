@@ -1,5 +1,7 @@
 
 # Oscar Mendoza Ocoha
+Last update: September 14th, 2019  
+[PDF version](https://github.com/Osuka42g/oscar-cv/blob/master/OscarMendozaOchoa-CV.md)
 
 ## About me
 | | |
@@ -16,7 +18,7 @@ I strongly believe that overcomunication is the key, clearly sharing the goals a
 
 ## Studies
 ---
-Interactive Media Degree by [Universidad de Morelia].(https://www.udemorelia.edu.mx/)  
+Interactive Media Degree by [Universidad de Morelia](https://www.udemorelia.edu.mx/)  
 Title in process.
 
 ## Technologies I feel confident with
