@@ -1,15 +1,6 @@
 
 # Oscar Mendoza Ocoha
 
-## Philosophy
----
-I strongly believe that overcomunication is the key, clearly sharing the goals and vision. I believe in honour and honesty. Code quality is mandatory. The team is first.
-
-## Studies
----
-Interactive Media Degree by [Universidad de Morelia].(https://www.udemorelia.edu.mx/)  
-Title in process.
-
 ## About me
 | | |
 |-|-|
@@ -18,6 +9,15 @@ Title in process.
 | Visa type | R |
 | Current residence | Guadalajara, Mexico |
 | Hobbies | 🚲 🏃‍ 🎲 🎬 🎮 |
+
+## Philosophy
+---
+I strongly believe that overcomunication is the key, clearly sharing the goals and vision. I believe in honour and honesty. Code quality is mandatory. The team is first.
+
+## Studies
+---
+Interactive Media Degree by [Universidad de Morelia].(https://www.udemorelia.edu.mx/)  
+Title in process.
 
 ## Technologies I feel confident with
 ---
