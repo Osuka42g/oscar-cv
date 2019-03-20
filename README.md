@@ -1,6 +1,6 @@
 
 # Oscar Mendoza Ocoha
-Last update: September 14th, 2019  
+Last update: March 19th, 2019  
 [PDF version](https://github.com/Osuka42g/oscar-cv/blob/master/OscarMendozaOchoa-CV.pdf)
 
 ## About me
@@ -25,9 +25,9 @@ Title in process.
 ---
 | Languajes | Frameworks / Libs|
 | - | - |
-| JavaScript | Node, Express  |
+| JS Backend | Node, Express  |
+| JS Front-end | ReactJS  |
 | Go | Hugo, Gin |
-| Swift | Kitura (Backend) |
 | PHP | Wordpress VIP, CakePHP, pApi |
 
 ## Interests
@@ -39,7 +39,8 @@ Title in process.
 ---
 | Employeer | Title | From | To |
 |-|-|-|-|
-| [Wizeline](https://wizeline.com) | Software Engineer | November 2016 | Current |
+| [Tiempo Development](https://www.tiempodev.com) | Senior Software Engineer | November 2018 | Current |
+| [Wizeline](https://wizeline.com) | Software Engineer | November 2016 | November 2018 |
 | [IA Interactive](https://ia.com.mx) | iOS Developer | November 2015 | November 2016 |
 
 ## Public projects I've worked on
@@ -60,7 +61,7 @@ Title in process.
 ---
 | | | |
 |:-:|:-:|:-:|
-|<img src="https://3mdrlz4flj1hjzvp11ni1z71-wpengine.netdna-ssl.com/wp-content/uploads/2015/03/wall-street-journal-logo.png" height="65" alt="WSJ">|<img src="https://talkingbiznews.com/wp-content/uploads/2016/07/Screen-Shot-2016-07-12-at-6.20.56-PM-768x193.png" height="65" alt="Dow Jones">|<img src="https://www.newscorpaustralia.com/wp-content/uploads/2018/07/NCA-Stacked-Wide-Version-for-website.jpg" height="65" alt="NewsCorp Australia">|
+|<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/47/13/ec/4713ec6a-bd0e-0f0f-1389-82da5bfaecfc/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/230x0w.jpg" height="65" alt="WSJ">|<img src="https://talkingbiznews.com/wp-content/uploads/2016/07/Screen-Shot-2016-07-12-at-6.20.56-PM-768x193.png" height="65" alt="Dow Jones">|<img src="https://www.newscorpaustralia.com/wp-content/uploads/2018/07/NCA-Stacked-Wide-Version-for-website.jpg" height="65" alt="NewsCorp Australia">|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_NIKE.svg" height="65" alt="Nike">|<img src="https://4vector.com/i/free-vector-philip-morris-logo_090390_Philip_Morris_logo.png" height="65" alt="Philiph Morris">|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Cin%C3%A9polis_logo.svg/1598px-Cin%C3%A9polis_logo.svg.png" height="65" alt="Cinépolis">|
 
 
