@@ -1,5 +1,5 @@
 
-# Oscar Mendoza Ocoha
+# Oscar Mendoza Ochoa
 Last update: March 19th, 2019  
 [PDF version](https://github.com/Osuka42g/oscar-cv/blob/master/OscarMendozaOchoa-CV.pdf)
 
