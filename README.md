@@ -1,6 +1,6 @@
 
 # Oscar Mendoza Ochoa
-Last update: March 19th, 2019  
+Last update: August 9th, 2019  
 [PDF version](https://github.com/Osuka42g/oscar-cv/blob/master/OscarMendozaOchoa-CV.pdf)
 
 ## About me
@@ -21,14 +21,13 @@ I strongly believe that overcomunication is the key, clearly sharing the goals a
 Interactive Media Degree by [Universidad de Morelia](https://www.udemorelia.edu.mx/)  
 Title in process.
 
-## Technologies I feel confident with
+## Technologies I currently work with
 ---
-| Languajes | Frameworks / Libs|
-| - | - |
-| JS Backend | Node, Express  |
-| JS Front-end | ReactJS  |
-| Go | Hugo, Gin |
-| PHP | Wordpress VIP, CakePHP, pApi |
+| Languajes | Frameworks / Libs| Experience |
+| - | - | - |
+| JS Backend | Node, Express  | 3 years (From scratch to prod) |
+| JS Front-end | ReactJS  | 1 year (Maintenance on existing projects) |
+| Mobile | React Native | 6 months (From scratch to prod) |
 
 ## Interests
 - Backend development.
