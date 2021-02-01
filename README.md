@@ -1,6 +1,6 @@
 
 # Oscar Mendoza Ochoa
-Last update: August 9th, 2019  
+Last update: January 31th, 2021  
 [PDF version](https://github.com/Osuka42g/oscar-cv/blob/master/OscarMendozaOchoa-CV.pdf)
 
 ## About me
@@ -18,16 +18,20 @@ I strongly believe that overcomunication is the key, clearly sharing the goals a
 
 ## Studies
 ---
-Interactive Media Degree by [Universidad de Morelia](https://www.udemorelia.edu.mx/)  
+Big Data Analysis and Visualization [Universidad Internacional de la Rioja](https://unir.net) - (2019 - Current)  
+Interactive Media Degree by [Universidad de Morelia](https://www.udemorelia.edu.mx/) - (2011-2014)  
 Title in process.
 
 ## Technologies I currently work with
 ---
-| Languajes | Frameworks / Libs| Experience |
-| - | - | - |
-| JS Backend | Node, Express  | 3 years (From scratch to prod) |
-| JS Front-end | ReactJS  | 1 year (Maintenance on existing projects) |
-| Mobile | React Native | 6 months (From scratch to prod) |
+| Languajes | Technologies |
+| - | - |
+| Backend | Golang, Echo, Node, Express, Mocha, Kafka |
+| Frontend | ReactJS, Redux, React testing library, Data visualization |
+| Mobile | React Native |
+| Databases | PostgreSQL, MongoDB |
+| Cloud providers | Google Cloud, Heroku |
+| Data messaging | Kafka |
 
 ## Interests
 - Backend development.
@@ -38,12 +42,16 @@ Title in process.
 ---
 | Employeer | Title | From | To |
 |-|-|-|-|
-| [Tiempo Development](https://www.tiempodev.com) | Senior Software Engineer | November 2018 | Current |
+| [Wizeline](https://www.wizeline.com) | Senior Software Engineer | September 2020 | Current |
+| [Nextiva](https://www.nextiva.com) | Frontend Software Engineer | November 2019 | September 2020 |
+| [Tiempo Development](https://www.tiempodev.com) | Senior Software Engineer | November 2018 | November 2019 |
 | [Wizeline](https://wizeline.com) | Software Engineer | November 2016 | November 2018 |
 | [IA Interactive](https://ia.com.mx) | iOS Developer | November 2015 | November 2016 |
 
 ## Public projects I've worked on
 ---
+- [Rappi](http://rappi.com)
+- [Cospace](https://www.nextiva.com/support/categories/cospace)
 - [The Wall Street Journal](store.wsj.com)
 - [News Australia](https://www.news.com.au/)
 - [Whimn](https://www.whimn.com.au/)
@@ -54,14 +62,6 @@ Title in process.
 - [HOYTS Chile](https://itunes.apple.com/us/app/cinehoyts-chile/id1129055346?mt=8)
 - [Yelmo Cines](https://itunes.apple.com/us/app/yelmo-cines-app/id777513664?mt=8)
 - [Farmacias del Ahorro](https://itunes.apple.com/gt/app/farmacias-del-ahorro/id474207034?mt=8)
-
-
-## Some brands I've proudly worked with
----
-| | | |
-|:-:|:-:|:-:|
-|<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/47/13/ec/4713ec6a-bd0e-0f0f-1389-82da5bfaecfc/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/230x0w.jpg" height="65" alt="WSJ">|<img src="https://talkingbiznews.com/wp-content/uploads/2016/07/Screen-Shot-2016-07-12-at-6.20.56-PM-768x193.png" height="65" alt="Dow Jones">|<img src="https://www.newscorpaustralia.com/wp-content/uploads/2018/07/NCA-Stacked-Wide-Version-for-website.jpg" height="65" alt="NewsCorp Australia">|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_NIKE.svg" height="65" alt="Nike">|<img src="https://4vector.com/i/free-vector-philip-morris-logo_090390_Philip_Morris_logo.png" height="65" alt="Philiph Morris">|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Cin%C3%A9polis_logo.svg/1598px-Cin%C3%A9polis_logo.svg.png" height="65" alt="Cinépolis">|
 
 
 ## Contact
