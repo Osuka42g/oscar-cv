@@ -1,6 +1,6 @@
 
 # Oscar Mendoza Ochoa
-Last update: January 31th, 2021  
+Last update: May 30th, 2021 
 [PDF version](https://github.com/Osuka42g/oscar-cv/blob/master/OscarMendozaOchoa-CV.pdf)
 
 ## About me
@@ -18,23 +18,23 @@ I strongly believe that overcomunication is the key, clearly sharing the goals a
 
 ## Studies
 ---
-Big Data Analysis and Visualization [Universidad Internacional de la Rioja](https://unir.net) - (2019 - Current)  
-Interactive Media Degree by [Universidad de Morelia](https://www.udemorelia.edu.mx/) - (2011-2014)  
+Big Data Analysis and Visualization Master [Universidad Internacional de la Rioja](https://unir.net) - (2019 - 2021)  
+Interactive Media Bachelor Degree by [Universidad de Morelia](https://www.udemorelia.edu.mx/) - (2011-2014)  
 Title in process.
 
-## Technologies I currently work with
+## Technologies I'm currently working with
 ---
 | Languajes | Technologies |
 | - | - |
-| Backend | Golang, Echo, Node, Express, Mocha, Kafka |
 | Frontend | ReactJS, Redux, React testing library, Data visualization |
+| Backend | Golang, Echo, Node, Express, Mocha |
 | Mobile | React Native |
 | Databases | PostgreSQL, MongoDB |
 | Cloud providers | Google Cloud, Heroku |
 | Data messaging | Kafka |
 
 ## Interests
-- Backend development.
+- Web3 development.
 - Software architecture.
 - Clean Code.
 
@@ -50,6 +50,7 @@ Title in process.
 
 ## Public projects I've worked on
 ---
+- [Arc XP](https://www.arcxp.com/)
 - [Rappi](http://rappi.com)
 - [Cospace](https://www.nextiva.com/support/categories/cospace)
 - [The Wall Street Journal](store.wsj.com)
